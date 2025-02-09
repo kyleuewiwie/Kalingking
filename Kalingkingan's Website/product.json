@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Cheese Bliss Kalibites",
+        "price": 50,
+        "image": "images/Cheese.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Choco Dream Kalibites",
+        "price": 50,
+        "image": "images/Choco.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Ube Delight Kalibites",
+        "price": 50,
+        "image": "images/Ube.jpg"
+    }
+]
